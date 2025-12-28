@@ -58,7 +58,6 @@ If using this code or results, please cite:
 ```bibtex
 @article{chudzik2025bioelectric,
   title={Bioelectric States and Cellular Phenotype: A Review and Compiled Dataset of Resting Membrane Potentials},
-  author={Chudzik, Artur},
   year={2025}
 }
 ```
