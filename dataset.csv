@@ -1,0 +1,50 @@
+Key,Cell_Type,Species,Functional_State,Diff,Vm_mean_mV,Uncert_mV,Method,Ref,Kingdom
+Egg_unfertilized_Rana_pipiens,"Egg (unfertilized)",Rana pipiens,Primordial,0,-28,,Microelectrode,Cross1980,Animal
+Egg_fertilization_peak_Rana_pipiens,"Egg (fertilization peak)",Rana pipiens,Fertilization,0,17,,Microelectrode,Cross1980,Animal
+Egg_unfertilized_Strongylocentrotus_purpuratus,"Egg (unfertilized)",Strongylocentrotus purpuratus,Primordial,0,-75,3,Microelectrode,Jaffe1978,Animal
+Egg_unfertilized_Xenopus_laevis,"Egg (unfertilized)",Xenopus laevis,Primordial,0,-10.1,3.5,Microelectrode,Webb1981,Animal
+Egg_fertilized_1h_Xenopus_laevis,"Egg (fertilized, ~1 h)",Xenopus laevis,Early embryo,0,-10.1,3.9,Microelectrode,Webb1981,Animal
+Embryo_2cell_Xenopus_laevis,"Embryo (2-cell stage)",Xenopus laevis,Early cleavage,0,-19,10,"Electrode + calibrated optical",Sempou2022,Animal
+Embryo_gastrula_control_Xenopus_laevis,"Embryo (gastrula, control)",Xenopus laevis,Differentiating,1,-44,2.1,"Electrode + calibrated optical",Sempou2022,Animal
+Embryo_gastrula_depolarized_Xenopus_laevis,"Embryo (gastrula, depolarized)",Xenopus laevis,Differentiating,1,-24,1.9,"Electrode + calibrated optical",Sempou2022,Animal
+Oocyte_GV_stage_Mus_musculus,"Oocyte (GV stage)",Mus musculus,Primordial,0,-46,4,Microelectrode,DouglasPowers1982,Animal
+Oocyte_GVBD_Mus_musculus,"Oocyte (GVBD)",Mus musculus,Differentiating,1,-31,4,Microelectrode,DouglasPowers1982,Animal
+Oocyte_PB_stage_Mus_musculus,"Oocyte (PB stage)",Mus musculus,Differentiated,2,-17,6,Microelectrode,DouglasPowers1982,Animal
+Oocyte_StageVI_control_Xenopus_laevis,"Oocyte (Stage VI, control)",Xenopus laevis,Primordial,0,-49,17,Microelectrode,Kado1981,Animal
+Oocyte_postGVBD_Xenopus_laevis,"Oocyte (post-GVBD)",Xenopus laevis,Differentiated,2,-8.7,4.4,Microelectrode,Kado1981,Animal
+Oocyte_follicle_enclosed_Xenopus_laevis,"Oocyte (follicle-enclosed)",Xenopus laevis,Primordial,0,-47.6,8.8,Microelectrode,Dascal1984,Animal
+Oocyte_denuded_Xenopus_laevis,"Oocyte (denuded)",Xenopus laevis,Primordial,0,-46.6,11.6,Microelectrode,Dascal1984,Animal
+Breast_cancer_MCF7_1995,"Breast cancer (MCF-7)",Homo sapiens,Proliferative,1,-14,range,Microelectrode,Wonderlin1995,Animal
+Breast_cancer_MCF7_1996,"Breast cancer (MCF-7)",Homo sapiens,Proliferative,1,-14,,Microelectrode,Wonderlin1996,Animal
+Tumor_like_embryonic_cells_Xenopus,"Tumor-like embryonic cells",Xenopus laevis,Oncogene_induced,1,-17.5,range,Calibrated optical,Lobikin2012,Animal
+Breast_ductal_carcinoma,"Breast tissue (ductal carcinoma)",Homo sapiens,Cancerous,1,-13.3,2.2,Microelectrode,Marino1994,Animal
+Hepatoma_Morris_7777,"Hepatoma (Morris 7777)",Rattus norvegicus,Cancerous,1,-19.8,7.1,Microelectrode,Binggeli1980,Animal
+Fibrosarcoma_mouse,"Fibrosarcoma",Mus musculus,Cancerous,1,-14.3,5.4,Microelectrode,Binggeli1980,Animal
+Ventricular_fibroblasts_rat,"Ventricular fibroblasts (adult)",Rattus norvegicus,Differentiated,3,-65,5.0,"Patch clamp (current clamp)",Chilton2005,Animal
+Ventricular_myofibroblasts_rat,"Ventricular myofibroblasts",Rattus norvegicus,Differentiated,3,-80,1.8,"Patch clamp (current clamp)",Chilton2005,Animal
+Macrophages_human,"Macrophages (resting)",Homo sapiens,Differentiated,3,-14.5,5.0,Microelectrode,Gallin1977,Animal
+Lymphocytes_human,"Lymphocytes (resting)",Homo sapiens,Differentiated,3,-68,,Calibrated voltage-sensitive dye,Wilson1985,Animal
+Astrocytes_typeII_rat,"Astrocytes (type II)",Rattus norvegicus,Differentiated,3,-79.6,5.9,Microelectrode,Bevan1985,Animal
+Oligodendrocytes_mature_mouse,"Oligodendrocytes (mature)",Mus musculus,Differentiated,3,-65.2,6.7,Current clamp,Sontheimer1988,Animal
+Neural_stem_cells_ReNcell_VM,"Neural stem cells (ReNcell VM)",Homo sapiens,Progenitor,1,-60,"11 (SE)","Patch clamp (whole-cell)",Donato2007,Animal
+Neural_stem_cells_ReNcell_CX,"Neural stem cells (ReNcell CX)",Homo sapiens,Progenitor,1,-61,"10 (SE)","Patch clamp (whole-cell)",Donato2007,Animal
+CA1_pyramidal_neurons_silent_rat,"CA1 pyramidal neurons (silent)",Rattus norvegicus,Excitable,4,-84.4,7.1,"Cell-attached (K+ reversal)",Fricker1999,Animal
+CA1_interneurons_silent_rat,"CA1 interneurons (silent)",Rattus norvegicus,Excitable,4,-74.4,9.4,"Cell-attached (K+ reversal)",Fricker1999,Animal
+CA1_pyramidal_neurons_dorsal_mouse,"CA1 pyramidal neurons (dorsal hippocampus)",Mus musculus,Excitable,4,-79.3,"0.8 (SE)","Patch clamp (current clamp)",Milior2016,Animal
+CA1_pyramidal_neurons_ventral_mouse,"CA1 pyramidal neurons (ventral hippocampus)",Mus musculus,Excitable,4,-74.9,"1.0 (SE)","Patch clamp (current clamp)",Milior2016,Animal
+Skeletal_muscle_semitendinosus_frog,"Skeletal muscle fibres (semitendinosus)",Rana temporaria,Excitable,4,-94,"~1 (SE)",Intracellular microelectrode,Hodgkin1959,Animal
+Skeletal_muscle_anterior_tibialis_mouse,"Skeletal muscle fibers (anterior tibialis, in vivo)",Mus musculus,Excitable,4,-99.4,3.0,Intracellular microelectrode,Bennett1953,Animal
+Cardiac_ventricular_fibers_frog,"Ventricular cardiac muscle fibers (in vivo)",Rana pipiens,Excitable,4,-62.0,range,Intracellular microelectrode,Woodbury1950,Animal
+Cardiac_ventricular_fibers_dog,"Ventricular cardiac muscle fibers (false tendons)",Canis familiaris,Excitable,4,-90,6,Intracellular microelectrode,Draper1951,Animal
+Nasal_epithelial_cells_human,"Nasal epithelial cells (normal turbinate)",Homo sapiens,Differentiated,3,-34,4,Intracellular microelectrode,Cotton1987,Animal
+Keratinocytes_undifferentiated_human,"Keratinocytes (cultured, undifferentiated)",Homo sapiens,Proliferative,1,-24,"2 (SE)","Patch clamp (whole-cell)",Mauro1990,Animal
+Endothelial_cells_pulmonary_artery_bovine,"Endothelial cells (pulmonary artery, cultured)",Bos taurus,Differentiated,3,-26,"3 (SE)","Patch clamp (whole-cell)",Voets1996,Animal
+iPSC_derived_neurons_Homo_sapiens,"iPSC-derived neurons (Day 13-88)",Homo sapiens,Differentiating,1,-28,3 (SE),Patch clamp (whole-cell),Belinsky2014,Animal
+hPSC_derived_cardiomyocytes_monolayer_human,"hPSC-derived cardiomyocytes (monolayer syncytium)",Homo sapiens,Differentiated,3,-68.1,"1.4 (SE)","Perforated patch (current clamp)",VanDeSande2021,Animal
+hPSC_derived_cardiomyocytes_isolated_human,"hPSC-derived cardiomyocytes (isolated single cell)",Homo sapiens,Differentiated,3,-49.3,"2.3 (SE)","Perforated patch (current clamp)",VanDeSande2021,Animal
+Hepatocytes_liver_segments_mouse_Graf1978,"Hepatocytes (liver segments)",Mus musculus,Differentiated,3,-37.4,"1.2 (SE)",Microelectrode,Graf1978,Animal
+Hepatocytes_intact_capsule_guinea_pig_Heller1974,"Hepatocytes (liver, intact capsule)",Cavia porcellus,Differentiated,3,-49.8,"0.15 (SE)",Microelectrode,Heller1974,Animal
+T_lymphocytes_CD3_CD45RO_negative_human_MelloDeQueiroz2008,"T lymphocytes (CD3+/CD45RO-)",Homo sapiens,Differentiated,3,-58.0,"3.7 (SE)","Oxonol + FACS (calibrated)",MelloDeQueiroz2008,Animal
+Pulmonary_artery_smooth_muscle_rabbit_Casteels1977,"Pulmonary artery smooth muscle cells",Oryctolagus cuniculus,Differentiated,3,-57.0,"1.8 (SD)",Microelectrode,Casteels1977,Animal
+Myometrium_nonpregnant_rat_Kuriyama1976,"Myometrium (non-pregnant)",Rattus norvegicus,Differentiated,3,-56,"3.5 (SD)",Microelectrode,Kuriyama1976,Animal
+Red_blood_cells_human_Jay1969,"Red blood cells",Homo sapiens,Differentiated,3,-8.0,"0.21 (SE)",Microelectrode,Jay1969,Animal
