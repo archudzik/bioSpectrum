@@ -62,6 +62,6 @@ If using this code or results, please cite:
 }
 ```
 
-## License
+## Reuse and provenance
 
-This project is licensed under the MIT License.
+The MIT License in `LICENSE-CODE` applies to the original analysis script (`analysis.py`) only. It does not relicense `dataset.csv`, which compiles measurements reported by the cited publications, or the generated figure and summary artifacts. Check the original sources and their terms before redistributing the data. The paper's publication and citation metadata should be checked before treating the provisional BibTeX entry above as a final journal citation.
